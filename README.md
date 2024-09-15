@@ -1,4 +1,4 @@
-# This is my readme file for demonstration of the Portfolio website.
+# This is the README file for demonstration of the Portfolio website.
 
 This website is created using HTML and CSS to showcase Portfolio along with link embeds for Linkedin and Github.
 
