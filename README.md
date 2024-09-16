@@ -2,6 +2,8 @@
 
 This website is created using HTML and CSS to showcase Portfolio along with link embeds for Linkedin and Github.
 
+Link of the website:- https://rajat-portfolio001.netlify.app/
+
 Following are the screenshots for the same:-
 
 ![Screenshot 2024-09-15 230703](https://github.com/user-attachments/assets/e0da9c93-0da1-427d-b44f-cceaca5701f6)
